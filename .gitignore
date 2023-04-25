@@ -1,0 +1,6 @@
+/vendor
+/bin
+/composer.phar
+/coverage
+.phpunit.cache
+.phpunit.result.cache
